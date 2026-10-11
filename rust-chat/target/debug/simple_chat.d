@@ -1,0 +1,1 @@
+E:\UC\ Subjects\ notes\Advance\ Programming\ language\Group-Project-dev-3\rust-chat\target\debug\simple_chat.exe: E:\UC\ Subjects\ notes\Advance\ Programming\ language\Group-Project-dev-3\rust-chat\src\main.rs
